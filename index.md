@@ -7,3 +7,5 @@ Er kennt sich recht gut in Ankh Morpork aus und ist Experte im Wegrennen. Zweibl
 * belesen
 * sprachbegabt
 * auf seinen Vorteil bedacht
+## Zitate
+> Auf den ersten Metern wird ein Mensch schneller sein als ein Pferd, denn er muss nur zwei Beine koordinieren, das Pferd aber vier.
