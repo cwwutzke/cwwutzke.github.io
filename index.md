@@ -14,6 +14,6 @@ Er kennt sich recht gut in Ankh Morpork aus und ist Experte im Wegrennen. Zweibl
 ## Bilder
 <img src="http://wiki.lspace.org/mediawiki/images/e/e8/Rincewind.jpg"/>
 
-Urheber: Rincewind Illustrated by Michael Collins a.k.a. puggdogg For more art by puggdogg go to www.puggdogg.deviantart.com
+_Urheber: Rincewind Illustrated by Michael Collins a.k.a. puggdogg For more art by puggdogg go to http://www.puggdogg.deviantart.com_
 
-Lizenz: <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode">CC BY-NC-SA 3.0</a>
+_Lizenz: <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode">CC BY-NC-SA 3.0</a>_
