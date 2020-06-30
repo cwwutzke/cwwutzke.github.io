@@ -7,5 +7,13 @@ Er kennt sich recht gut in Ankh Morpork aus und ist Experte im Wegrennen. Zweibl
 * belesen
 * sprachbegabt
 * auf seinen Vorteil bedacht
+
 ## Zitate
 > Auf den ersten Metern wird ein Mensch schneller sein als ein Pferd, denn er muss nur zwei Beine koordinieren, das Pferd aber vier.
+
+## Bilder
+<img src="http://wiki.lspace.org/mediawiki/images/e/e8/Rincewind.jpg"/>
+
+Urheber: Rincewind Illustrated by Michael Collins a.k.a. puggdogg For more art by puggdogg go to www.puggdogg.deviantart.com
+
+Lizenz: <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode">CC BY-NC-SA 3.0</a>
